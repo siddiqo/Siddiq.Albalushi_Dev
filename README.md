@@ -1,6 +1,6 @@
 # Siddiq.Albalushi_Dev
 # 👋 Hi, I'm Siddiq
-🎯 Software Engineer | 🧠 AI Explorer | 🕹️ Game Dev | 🌐 Web Developer
+🎯 Software Engineer | 🎮 Game Developer | 📱 Mobile Developer | 🎨 3D Designer | 🖨️ 3D Printing Enthusiast |
 
 ![Header GIF or Image](your-image-url)
 
