@@ -10,6 +10,11 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000?style=flat&logo=unity)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![Bambu Studio](https://img.shields.io/badge/-Bambu%20Studio-000000?style=flat&logo=data:image/svg+xml;base64,[custom-logo-here])
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/-Fusion%20360-F7B500?style=flat&logo=autodesk&logoColor=black)
+
 ...
 
 ---
