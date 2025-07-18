@@ -27,6 +27,20 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=darkhub&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=github-dark)
+
+---
+
+## 🚀 My Highlighted Projects
+
+- 🔭 [3D Print Organizer App](https://github.com/yourrepo) — Flutter app to manage 3D models and print settings.
+- 🎮 [LetterGame3D](https://github.com/yourrepo) — A Unity game for educational spelling.
+- 🧩 [Blender Kit Manager](https://github.com/yourrepo) — Tool to organize .blend files efficiently.
+
+
+---
 
 > “From the void, we create logic; from the chaos, we craft order.”
 
