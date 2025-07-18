@@ -25,5 +25,8 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=darkhub&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 > “From the void, we create logic; from the chaos, we craft order.”
 
