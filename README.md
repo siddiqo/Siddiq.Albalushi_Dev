@@ -17,7 +17,7 @@ Whether it's building interactive mobile apps, crafting immersive 3D environment
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000?style=flat&logo=unity)
 ![Bambu Studio](https://img.shields.io/badge/-Bambu%20Studio-000000?style=flat&logo=data:image/svg+xml;base64,[custom-logo-here])
-![Bambu Studio](https://img.shields.io/badge/-Bambu%20Studio-000000?style=flat&logo=data:image/svg+xml;base64,[[custom-logo-here](https://cdn-forum.bambulab.com/original/3X/c/d/cdcf93eda20dae5eae18a529ea1745c777978592.png)])
+![Bambu Studio](https://img.shields.io/badge/-Bambu%20Studio-000000?style=flat&logo=data:image/svg+xml;base64,custom-logo-here](https://cdn-forum.bambulab.com/original/3X/c/d/cdcf93eda20dae5eae18a529ea1745c777978592.png))
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
