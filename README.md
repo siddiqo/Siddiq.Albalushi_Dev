@@ -56,5 +56,4 @@ Whether it's building interactive mobile apps, crafting immersive 3D environment
 - 🧵 LinkedIn: https://www.linkedin.com/in/siddiq-al-balushi-5935a534b/
 
 
-> “From the void, we create logic; from the chaos, we craft order.”
 
